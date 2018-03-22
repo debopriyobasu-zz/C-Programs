@@ -1,4 +1,4 @@
-/* Menu driven program to find area of square and rectangle
+/* Menu driven program to find greatest and smallest of 3 numbers
 Version : 1.0
 Program Author : Debopriyo Basu
 Program creation date: 22/03/2018 
