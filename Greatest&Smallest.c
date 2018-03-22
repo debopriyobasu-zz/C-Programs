@@ -1,3 +1,8 @@
+/* Menu driven program to find area of square and rectangle
+Version : 1.0
+Program Author : Debopriyo Basu
+Program creation date: 22/03/2018 
+*/
 #include<stdio.h> //preprocessor directive to include standard I/O commands in the program
 int main(void){
 	float a,b,c; //to store 3 numbers that will be input by the user.
