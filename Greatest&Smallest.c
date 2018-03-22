@@ -1,5 +1,5 @@
-/* Menu driven program to find greatest and smallest of 3 numbers
-Version : 1.0
+/* Program to find greatest and smallest of 3 numbers
+Version : 1.2
 Program Author : Debopriyo Basu
 Program creation date: 22/03/2018 
 */
