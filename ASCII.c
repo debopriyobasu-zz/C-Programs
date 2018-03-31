@@ -1,4 +1,4 @@
-/*To print all ASCII values by considering uppercase, lowercase and special characters/
+/*To print all ASCII values by considering uppercase, lowercase and special characters
 Version : 1.0
 Program Author : Debopriyo Basu
 Program creation date: 31/03/2018 
